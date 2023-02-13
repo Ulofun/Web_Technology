@@ -1,0 +1,6 @@
+1. Определите, на каком протоколе работает сайт youtube.com.
+
+Сделайте скриншот с названием 1_protocol.jpg, по которому станет понятно, как вы определили протокол сайта.
+
+Сайт youtube.com работает на протоколе https. Узнать протокол можно несколькими способами. Я воспользовался DevTools , далее в разделе Network ----> выбираю первое
+соединение из списка -----> Headers ----> Request URL: https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 (в начале указано https)
